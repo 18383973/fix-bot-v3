@@ -24,7 +24,7 @@ ${htjava} *💌 Nama* : VincenttXD
 ${htjava} *✉️ Nama RL* : HAMBA ALLAH
 ${htjava} *♂️ Gender* : Boys
 ${htjava} *🕋 Agama* : Islam
-${htjava} *⏰ Tanggal lahir* : 17-10-2007
+${htjava} *⏰ Tanggal lahir* : 17-10-2007 😎
 ${htjava} *🎨 Umur* : 15
 ${htjava} *🧮 Kelas* : IX
 ${htjava} *🧩 Hobby* : MODIFIKASI WHATSAPP "MODDER WHATSAPP"
