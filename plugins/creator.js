@@ -28,8 +28,8 @@ ${htjava} *⏰ Tanggal lahir* : 17-10-2007 😎
 ${htjava} *🎨 Umur* : 15
 ${htjava} *🧮 Kelas* : IX
 ${htjava} *🧩 Hobby* : MODIFIKASI WHATSAPP "MODDER WHATSAPP"
-${htjava} *💬 Sifat* : Baik, Suka jajanin temen, Nggak Pelit 
-${htjava} *🗺️ Tinggal* : Indo, Depok, Jawa Barat
+${htjava} *💬 Sifat* : Baik , Royal , Enakan dahh😁
+${htjava} *🗺️ Tinggal* : Indo, Klaten, Jawa Tengah
 ${htjava} *❤️ Waifu* : -
 
 ${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ${sig}
